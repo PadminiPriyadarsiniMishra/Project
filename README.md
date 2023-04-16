@@ -1,6 +1,6 @@
 # Project
 
-We see Ads everytime we use social media. Companies spend so much money these on digital platforms to promote their products to customer.
+We see Ads everytime when we use social media. Companies spend so much money these on digital platforms to promote their products to customer.
 
 At real time, business may consider different complex to predict whether a user would click Ad or not or maybe purchase their product .
 
